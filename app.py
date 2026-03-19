@@ -12,4 +12,4 @@ def exercice():
 if __name__ == '__main__':
     # L'application écoute sur le port 5000 par défaut
     # Si le port est pris, vous pouvez changer le port ici
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5600)
